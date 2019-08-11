@@ -1493,7 +1493,7 @@ body{
 
 	border-bottom: solid 1px #eee;
 
-	background: url(../img/breadcrumbs.png) repeat;
+	/*background: url(../img/breadcrumbs.png) repeat;*/
 
 }
 
@@ -2076,7 +2076,7 @@ body{
 
 	border-bottom: solid 1px #eee;
 
-	background: url(../img/breadcrumbs.png) repeat;
+	/*background: url(../img/breadcrumbs.png) repeat;*/
 
 }
 
@@ -2652,7 +2652,7 @@ a.thumbnail {
 
 	border-bottom: 1px solid #eee;
 
-	background: url(../img/breadcrumbs.png) repeat;
+	/*background: url(../img/breadcrumbs.png) repeat;*/
 
 }
 
